@@ -1,8 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.AbstractFactory;
-
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.FactoryMethod.Master;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.FactoryMethod.MasterFactory;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.FactoryMethod.MasterType;
+package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory;
 
 public class University2 {
     public static void main(String[] args) {

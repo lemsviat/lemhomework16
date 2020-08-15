@@ -1,4 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.FactoryMethod;
+package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod;
 
 public class MasterOfEconomics implements Master{
     @Override

@@ -1,4 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.FactoryMethod;
+package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod;
 
 public class MasterFactory {
     public Master createMaster(MasterType masterType) {
