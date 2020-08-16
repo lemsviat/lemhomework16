@@ -1,8 +1,8 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.abstractfactory;
 
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfEconomics;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfEngineering;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfTechnology;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod.MasterOfEconomics;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod.MasterOfEngineering;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod.MasterOfTechnology;
 
 public class MasterFactory2 implements SpecialistFactory {
     @Override

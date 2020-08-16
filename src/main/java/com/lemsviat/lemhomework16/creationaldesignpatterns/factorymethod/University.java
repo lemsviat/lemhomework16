@@ -1,4 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod;
 
 public class University {
     public static void main(String[] args) {

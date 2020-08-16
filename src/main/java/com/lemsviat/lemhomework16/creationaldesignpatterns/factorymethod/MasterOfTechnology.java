@@ -1,4 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod;
 
 public class MasterOfTechnology implements Master{
     @Override

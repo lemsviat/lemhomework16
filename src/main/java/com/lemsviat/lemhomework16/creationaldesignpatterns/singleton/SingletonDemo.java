@@ -1,4 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.singleton;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.singleton;
 
 public class SingletonDemo {
     public static void main(String[] args) {

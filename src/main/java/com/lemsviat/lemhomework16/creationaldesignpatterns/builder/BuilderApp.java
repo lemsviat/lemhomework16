@@ -1,6 +1,6 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.builder;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.builder;
 
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory.Specialist;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.abstractfactory.Specialist;
 
 public class BuilderApp {
     public static void main(String[] args) {

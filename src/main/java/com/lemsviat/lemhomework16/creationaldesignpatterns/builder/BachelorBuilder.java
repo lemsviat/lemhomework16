@@ -1,9 +1,6 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.builder;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.builder;
 
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory.*;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfEconomics;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfEngineering;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfTechnology;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.abstractfactory.*;
 
 public class BachelorBuilder implements SpecialistBuilder{
     private SpecialistType specialistType;

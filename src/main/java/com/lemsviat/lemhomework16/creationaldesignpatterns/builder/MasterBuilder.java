@@ -1,10 +1,10 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.builder;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.builder;
 
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory.Specialist;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory.SpecialistType;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfEconomics;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfEngineering;
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.factorymethod.MasterOfTechnology;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.abstractfactory.Specialist;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.abstractfactory.SpecialistType;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod.MasterOfEconomics;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod.MasterOfEngineering;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.factorymethod.MasterOfTechnology;
 
 public class MasterBuilder implements SpecialistBuilder{
     private SpecialistType specialistType;

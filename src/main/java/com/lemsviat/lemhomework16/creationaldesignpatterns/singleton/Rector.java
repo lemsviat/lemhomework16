@@ -1,4 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.singleton;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.singleton;
 
 public final class Rector { //Rector is head of some university
     private static volatile Rector instance;

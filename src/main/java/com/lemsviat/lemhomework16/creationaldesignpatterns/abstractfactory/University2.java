@@ -1,4 +1,4 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.abstractfactory;
 
 public class University2 {
     public static void main(String[] args) {

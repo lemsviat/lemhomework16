@@ -1,6 +1,6 @@
-package main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.builder;
+package main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.builder;
 
-import main.java.com.lemsviat.lemhomework16.CreationalDesignPatterns.abstractfactory.SpecialistType;
+import main.java.com.lemsviat.lemhomework16.creationaldesignpatterns.abstractfactory.SpecialistType;
 
 public class Director {
     public void makeMasterOfEngineering(MasterBuilder builder){
