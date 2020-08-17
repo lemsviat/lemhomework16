@@ -4,6 +4,11 @@ public class MasterOfEngineering extends StudentDecorator{
     public MasterOfEngineering(Student student) {
         super(student);
     }
+
+    public MasterOfEngineering() {
+        super();
+    }
+
     public String studyMastersSubjects() {
         return " Studies masters's engineering subjects.";
     }
