@@ -7,7 +7,7 @@ public class VisitorDemo {
         Student master=new Master();
 
         diploma.beWritten(bachelor);
-        System.out.println();
+        System.out.println("--------------------------------------");
         diploma.beWritten(master);
 
     }
