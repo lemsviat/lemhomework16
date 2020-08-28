@@ -6,6 +6,8 @@ public class VisitorDemo {
         Student bachelor=new Bachelor();
         Student master=new Master();
 
+        System.out.println("Students start writing their diplomas:");
+        System.out.println("--------------------------------------");
         diploma.beWritten(bachelor);
         System.out.println("--------------------------------------");
         diploma.beWritten(master);
